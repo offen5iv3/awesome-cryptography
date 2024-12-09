@@ -131,7 +131,7 @@ A curated list of cryptography resources and links.
 - [Practical Aspects of Modern Cryptography](http://courses.cs.washington.edu/courses/csep590/06wi/) - Practical Aspects of Modern Cryptography, Winter 2006 University of Washington CSE.
 - [Theory and Practice of Cryptography](https://www.youtube.com/watch?v=ZDnShu5V99s) - Introduction to Modern Cryptography, Using Cryptography in Practice and at Google, Proofs of Security and Security Definitions and A Special Topic in Cryptography.
 
-### Videos]
+### Videos
 
 - [Explained: What is Hashing and how does it work?](https://www.youtube.com/watch?v=4khb3q2cvRQ) – Learn how does Hashing in Computer Science works and it's important use cases.
 
